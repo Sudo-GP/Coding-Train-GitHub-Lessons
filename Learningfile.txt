@@ -1,6 +1,7 @@
 This is a branch1 addition
 
 This is line one
+This is a further change to the main branch.
 I will be changing this
 To demonstrate how this software works.
 This is my fourth commit, but I've added a line in between earlier texts! 
