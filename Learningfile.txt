@@ -1,6 +1,7 @@
 This is line one
 I will be changing this
 To demonstrate how this software works.
+This is my fourth commit, but I've added a line in between earlier texts! 
 I then learned that the video tutorial from 2016 is a little different to the system I use
 I needed to make sure I was on a branch before I could edit this file.
 It is a little different.
